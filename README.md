@@ -34,11 +34,18 @@ The BMI Calculator App is a simple and user-friendly tool designed to help indiv
 
 ### Usage
 
-1. Open the app in your web browser or on your mobile device.
-2. Select your gender.
-3. Enter your weight and height.
-4. Click the "Calculate" button to see your BMI result.
-5. View the interpretation of your BMI and any accompanying health tips.
+  1. Open the app in your web browser or on your mobile device.
+  2. Select your gender.
+  3. Enter your weight and height.
+  4. Click the "Calculate" button to see your BMI result.
+  5. View the interpretation of your BMI and any accompanying health tips.
+
+## Installation
+
+  1. Clone this repository: `https://github.com/archit27-uo/bmi-calculator.git`
+  2. Navigate to the project directory: `cd bmi-calculator`
+  3. Run: `flutter pub get`
+  4. Run app: `flutter run`
 
 
 ## Screenshot
@@ -46,9 +53,4 @@ The BMI Calculator App is a simple and user-friendly tool designed to help indiv
 
 ![Screenshot (233)](https://github.com/archit27-uo/bmi-calculator/assets/75472988/fffe3a8d-003f-426b-a652-c275554d6707)
 
-## Installation
 
-1. Clone this repository: `git clone https://github.com/yourusername/your-project.git`
-2. Navigate to the project directory: `cd your-project`
-3. Run: `flutter pub get`
-4. Run app: `flutter run`
