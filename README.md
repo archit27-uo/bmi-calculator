@@ -46,7 +46,7 @@ The BMI Calculator App is a simple and user-friendly tool designed to help indiv
 
 ![Screenshot (233)](https://github.com/archit27-uo/bmi-calculator/assets/75472988/fffe3a8d-003f-426b-a652-c275554d6707)
 
-##Installation
+## Installation
 
 1. Clone this repository: `git clone https://github.com/yourusername/your-project.git`
 2. Navigate to the project directory: `cd your-project`
